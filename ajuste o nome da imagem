@@ -1,0 +1,14 @@
+@@ -74,7 +74,7 @@
+        </div>	        </div>
+
+
+        <div class="passo" id="passo-11">	        <div class="passo" id="passo-11">
+            <img src="img/cenario-passo12-cidade-perdida.png" alt="encontrando uma cidade maravilhosa perdida no Amazonas">	            <img src="img/cenario-passo11-cidade-perdida.png" alt="encontrando uma cidade maravilhosa perdida no Amazonas">
+            <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar	            <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar
+                este lugar</p>	                este lugar</p>
+        </div>	        </div>
+@@ -87,4 +87,4 @@
+    </main>	    </main>
+    <script src="script.js"></script>	    <script src="script.js"></script>
+</body>	</body>
+</html>	</html>
